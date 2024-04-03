@@ -35,3 +35,12 @@ To get started with this portfolio template, follow these steps:
   
      
 ## Preview
+![image](https://github.com/pratishpk/template/assets/72383158/9544fb1a-33f8-48f1-9504-18129fc4ab99)
+
+![image](https://github.com/pratishpk/template/assets/72383158/d2fbeb54-5f0b-4eac-910a-48e7ded94f6b)
+
+![image](https://github.com/pratishpk/template/assets/72383158/2d9567c0-2b60-4ec0-a40c-7d25905fd1fd)
+
+![image](https://github.com/pratishpk/template/assets/72383158/3d3b89cb-d289-43b9-86ed-1c0b50a7261b)
+
+
