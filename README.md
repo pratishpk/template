@@ -19,6 +19,7 @@ Welcome to my portfolio template! This template is designed for beginners to cre
 To get started with this portfolio template, follow these steps:
 
 1. Clone this repository:
+    - https://github.com/pratishpk/template
 
 2. Customize the content:
    - Replace the placeholder images with your own.
